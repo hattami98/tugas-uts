@@ -1,0 +1,61 @@
+#gambargede{
+    background-image: url(gambar.jpg);
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    background-size: 100%;
+    height: 400px;
+}
+#atas{
+    height: 40px;
+    background-color: white;
+    color: white;
+    padding-top: 10px;
+}
+div.tag{
+    height: 60px;
+    background-color: #005187;
+    color: white;
+    padding-top: 12px;
+}
+div.tog{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+div.y{
+    text-align: center;
+}
+#gambarbawah{
+    background-image: url(gambar.jpg);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-attachment: fixed;
+    background-size: 100%;
+    height: 5px;
+}
+img.kelas{
+    height: 50%;
+    width: 100px;
+    border: 4px solid #005187;
+}
+img.keles{
+    height: 100%;
+    width: 100%;
+    padding: 30px;
+}
+div.poto{
+    padding-top: 60px;
+    border: none;
+    outline: none;
+    line-height: 80%;
+}
+div.penutup{
+    background-color: #005187;
+    height: 100px;
+    text-align:right;
+    vertical-align: middle;
+    padding-top: 20px;
+    color: white;
+    line-height: 80%;
+    padding-right: 20px;
+}
